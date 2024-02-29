@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Berkaycon
-- 👀 with game development I’m interested in ...
+- 👀 with game development I’m interested in 
+- full stack developer...
 
 
 <!---
