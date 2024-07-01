@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Berkaycon
-- 👀 with game development I’m interested in 
-- full stack developer...
+Hello, I'm Berkay, I'm 17 years old and I've been continuously developing myself in the field of social media and digital marketing Seo for the last five years. I closely follow artificial intelligence and social media trends, try to gain in-depth knowledge on these topics and use them.
+
+I am also constantly developing myself in creative management and digital design. I produce creative projects with tools such as Photoshop, Illustrator, InDesign and Figma and constantly improve my visual communication skills. 
+
+Let's connect and see how you can strengthen your digital marketing presence.
+
+Translated with DeepL.com (free version)
 
 
 <!---
